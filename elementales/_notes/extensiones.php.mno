@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsPostalesEnvio" value="name:Id;datatype:int,name:imagen;datatype:string,name:nombre_recibe;datatype:string,name:email_recibe;datatype:string,name:nombre_envia;datatype:string,name:email_envia;datatype:string,name:mensaje;datatype:blob,name:clave_envio;datatype:real,name:fecha_envio;datatype:date" />
+</info>

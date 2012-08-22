@@ -1,0 +1,77 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*a {
+	margin: 1em 0;
+	float: left;
+	clear: left;
+	text-decoration: none;
+}
+.simple {
+	text-decoration: underline;
+}
+.color {
+	border-bottom: medium solid #CC0000;
+}
+.ancho {
+	border-bottom: thick solid;
+}
+.separado {
+	border-bottom: 1px solid;
+	padding-bottom: .6em;
+}
+.discontinuo {
+	border-bottom: thin dashed;
+}*/
+
+
+/* este estilo afecta a todos los links*/
+a {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #F90;
+	text-decoration: none;
+}
+a:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #F00;
+	text-decoration: none;
+}
+/* Los estilos se aplican cuando el usuario pasa el ratón por encima de un
+enlace que todavía no ha visitado */
+a1:link:hover {
+
+}
+/* Los estilos se aplican cuando el usuario pasa el ratón por encima de un
+enlace que ha visitado previamente */
+a1:visited:hover {
+
+}
+
+
+.menu_link1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	color: #060;
+	text-decoration: none;
+}
+.menu_link1:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	color: #C60;
+	text-decoration: underline;
+}
+
+.menu_link2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #C09;
+	text-decoration: none;
+}
+.menu_link2:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #00F;
+	text-decoration: underline;
+}

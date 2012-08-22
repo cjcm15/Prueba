@@ -1,0 +1,93 @@
+@charset "iso-8859-1";
+/* CSS Document */
+/* Se puede lograr un control perfecto tanto trabajando con position absolute o relative */
+/*.texto {
+	position: absolute;
+	top: 90px;
+	left: 100px;
+	color: black;
+	font-size: x-large
+}
+.imagen {
+	position: absolute;
+	top: 80px;
+	left: 100px;
+	width: 103px;
+	height: 61px
+}
+.imagen1 {
+	position:absolute;
+	top:200px;
+	left:100px;
+	width:200px;
+	height:200px;
+	visibility: visible;
+	z-index: 2;
+}
+.imagen2 {
+	position:absolute;
+	top:250px;
+	left:150px;
+	width:200px;
+	height:200px;
+	visibility:visible;
+	z-index:1;
+}
+.texto_largo {
+	position: absolute;
+	top: 120px;
+	left: 100px;
+	color: black;
+	font-size: x-large;
+	visibility:visible;
+	z-index:3;
+}*/
+/*WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW*/
+
+.imagen {
+	position: relative;
+	top: 80px;
+	left: 100px;
+	width: 103px;
+	height: 61px
+}
+
+.texto {
+	position: relative;
+	top: 48px;
+	left: 150px;
+	color: black;
+	font-size: x-large
+}
+
+
+
+
+.imagen1 {
+	position:relative;
+	top:200px;
+	left:100px;
+	width:200px;
+	height:200px;
+	visibility: visible;
+	z-index: 1;
+}
+.imagen2 {
+	position:relative;
+	top:25px;
+	left:150px;
+	width:200px;
+	height:200px;
+	visibility:visible;
+	z-index:2
+	;
+}
+.texto_largo {
+	position: relative;
+	top: -100px;
+	left: 370px;
+	color: black;
+	font-size: x-large;
+	visibility:visible;
+	z-index:3;
+}

@@ -1,0 +1,428 @@
+BODY {
+	SCROLLBAR-FACE-COLOR: #CBCD93;
+	SCROLLBAR-HIGHLIGHT-COLOR: #CBCD93;
+	SCROLLBAR-SHADOW-COLOR: #CBCD93;
+	COLOR: #FF3D56;
+	SCROLLBAR-3DLIGHT-COLOR: #CBCD93;
+	SCROLLBAR-ARROW-COLOR: #8C4D53;
+	SCROLLBAR-TRACK-COLOR: #E8F1BD;
+	SCROLLBAR-DARKSHADOW-COLOR: #8C4D53;
+	background-color: #CCCCCC;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+}
+
+
+A
+{
+	COLOR: #666666;
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+	FONT-SIZE: 11px;
+	FONT-WEIGHT: normal;
+	TEXT-DECORATION: underline
+}
+
+A:hover
+{
+	color: #FF3F57;
+	text-decoration: none;
+}
+
+.botonera {
+	COLOR: #F3FFCD;
+	FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif;
+	FONT-SIZE: 11px;
+	FONT-WEIGHT: bold;
+	TEXT-DECORATION: none;
+	clip: rect(auto,auto,auto,auto);
+	margin-left: 8px;
+	line-height: 32px;
+	background-image: url(img/fondo_bot.gif);
+	margin-right: 8px;
+	text-transform: uppercase;
+}
+
+.botonera:hover {
+	color: #CCCCCC;
+}
+
+.submenu {
+	text-decoration: none;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 8px;
+	font-weight: bold;
+	color: #8C4D53;
+	margin-right: 5px;
+	margin-left: 5px;
+	text-transform: uppercase;
+}
+
+.submenu:hover {
+	color: #FD4658;
+}
+
+
+.fechaTop {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #584D5E;
+	line-height: 10px;
+}
+
+.nombreSeccion {
+	color: #584D5E;
+	text-decoration:none;
+	font-weight:bold;
+	font-size: 11px;
+	font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	}
+
+.nombreSubmenu {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	text-decoration: none;
+	color: #6AB235;
+	font-weight: bold;
+}
+.seccion {
+
+	COLOR: #584D5E;
+	FONT-FAMILY: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	FONT-SIZE: 12px;
+	FONT-WEIGHT: bold;
+	TEXT-DECORATION: none;
+}
+
+
+SEPARADOR//
+
+
+.texto {
+	COLOR: #000000;
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+	FONT-SIZE: 11px;
+	FONT-WEIGHT: normal;
+	TEXT-DECORATION: none;
+}
+
+.resumenNoticiaHome {
+	COLOR: #000000;
+	FONT-FAMILY: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	FONT-SIZE: 11px;
+	FONT-WEIGHT: normal;
+	TEXT-DECORATION: none;
+}
+
+.tituloNoticia {
+	COLOR: #298000;
+	FONT-FAMILY: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	FONT-SIZE: 15px;
+	FONT-WEIGHT: bold;
+	font-variant: normal;
+	text-decoration: none;
+}
+.autor {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #999999;
+	font-weight: normal;
+}
+
+
+.tituloMarca {
+	COLOR: #462629;
+	FONT-FAMILY: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	FONT-SIZE: 13px;
+	FONT-WEIGHT: bold;
+	font-variant: normal;
+	text-decoration: none;
+}
+
+.resumenNoticia {
+
+	COLOR: #000000;
+	FONT-FAMILY: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	FONT-SIZE: 11px;
+	FONT-WEIGHT: normal;
+	TEXT-DECORATION: none;
+}
+
+.titulo {
+
+
+	COLOR: #666600;
+	FONT-FAMILY: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	FONT-SIZE: 13px;
+	FONT-WEIGHT: bold;
+	TEXT-DECORATION: none;
+}
+
+.textoNegrita {
+
+	COLOR: #000000;
+	FONT-FAMILY: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	FONT-SIZE: 11px;
+	FONT-WEIGHT: bold;
+	TEXT-DECORATION: none;
+}
+
+.tablaSuperior {
+	background-color: #F8FFE1;
+
+}
+
+.fila01 {
+	background-color: #D1D49B;
+}
+
+.fila02 {
+	COLOR: #000000;
+	FONT-FAMILY: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	FONT-SIZE: 11px;
+	FONT-WEIGHT: normal;
+	TEXT-DECORATION: none;
+	background-color: #DFEDD4;
+	border-color: #FFFFFF;
+}
+
+.tablaInferior {
+	COLOR: #FFFFFF;
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+	FONT-SIZE: 11px;
+	FONT-WEIGHT: bold;
+	TEXT-DECORATION: none;
+	background-color: #FF3D56;
+	line-height: 15px;
+}
+
+.campo {
+	COLOR: #8C4D53;
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+	FONT-SIZE: 10px;
+	FONT-WEIGHT: normal;
+	TEXT-DECORATION: none;
+	border: 1px solid #8C4D53;
+}
+
+.botonFormulario {
+	COLOR: #FFFFFF;
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+	FONT-SIZE: 10px;
+	FONT-WEIGHT: bold;
+	TEXT-DECORATION: none;
+	background-color: #FF3C59;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+
+}
+.descripcion {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #8C4D53;
+	font-weight: normal;
+}
+.autorDatos {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #666666;
+	font-weight: normal;
+}
+.linkDestacado {
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #F74857;
+	text-decoration: none;
+	font-weight: bold;
+}
+.TDbotonera {
+	background-image: url(img/botonera.gif);
+	background-repeat: no-repeat;
+	background-color: #F3FFCD;
+	text-decoration: none;
+}
+.textoGris {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #666666;
+	font-weight: normal;
+	line-height: 16px;
+}
+.textoDestacado {
+	font-family: "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #666666;
+	font-weight: bold;
+	line-height: 13px;
+}
+.textoDestFuerte {
+	font-family: "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #FF3D56;
+	font-weight: bold;
+	line-height: 15px;
+}
+.formulario {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #FF3D55;
+}
+.Estilo2 {
+	color: #8C4D53;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+}
+.Estilo1 {
+	color: #F3FFCD;
+	font-size: 10px;
+	text-decoration: none;
+}
+.Estilo3 {
+	font-size: 20px;
+	text-align: center;
+	font-weight: bold;
+}
+.Estilo4 {color: #8C4D53}
+.servicios {
+	COLOR: #FF3D56;
+	FONT-FAMILY: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	FONT-SIZE: 13px;
+	FONT-WEIGHT: bold;
+	line-height: 20px;
+}
+.botoneraServ {
+	COLOR: #8C4D53;
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+	FONT-SIZE: 10px;
+	FONT-WEIGHT: normal;
+	TEXT-DECORATION: none;
+	clip: rect(auto,auto,auto,auto);
+}
+.linkDestacado {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #8C4D53;
+	line-height: 12px;
+}
+.precio {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #999999;
+	text-decoration: line-through;
+	font-size: 10px;
+}
+.precioFinal {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FF3D56;
+}
+.destacDis {
+	background-color: #EEEEEE;
+}
+.botoneraServ {
+	COLOR: #F8DED6;
+	FONT-FAMILY: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	FONT-SIZE: 11px;
+	FONT-WEIGHT: normal;
+	TEXT-DECORATION: none;
+	clip: rect(auto,auto,auto,auto);
+	line-height: 32px;
+	background-image: url(img/fondo_bot.gif);
+	text-transform: uppercase;
+	border-left-width: 2px;
+	border-left-style: solid;
+	border-left-color: #FF5E72;
+	padding-right: 5px;
+	padding-left: 5px;
+}
+.textoGeneral {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000000;
+	font-weight: normal;
+	line-height: 18px;
+	text-align: justify;
+	margin-right: 20px;
+}
+
+.centrar {
+	text-align: center;
+	margin-left: 80;
+	border: thin solid #996;
+	
+}
+
+.imagen_derecha {
+	background-color: #CCC;
+	text-align: right;
+	float: right;
+	padding-right: 20px;
+	margin-top: 5px;
+}
+.otro_texto {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	color: #F00;
+	text-align: left;
+	clear: both;
+	float: left;
+	width: 150px;
+	margin-top: 20px;
+}
+.imagen_derecha {
+	vertical-align: top;
+	margin-bottom: 0px;
+	float: right;
+	border: thin solid #093;
+	margin-top: 15px;
+}
+.imagenMuestra {
+	background-color: #CCC;
+	float: left;
+	border: thin solid #00F;
+}
+
+
+
+
+.texto_izquierda {
+	font-family: "Comic Sans MS", cursive;
+	font-size: 10px;
+	color: #00C;
+	text-align: left;
+	float: left;
+	width: 100px;
+	margin-top: 30px;
+	border: thin solid #F00;
+	margin-right: 30px;
+}
+.imagenMuestra1 {
+	background-color: #CCC;
+	float: right;
+	border: thin solid #00F;
+	margin-right: 0px;
+}
+.imagen {
+	background-color: #9F6;
+	text-align: center;
+	vertical-align: middle;
+	height: 300px;
+	width: 300px;
+	visibility: visible;
+	z-index: 1;
+	float: left;
+	position: relative;
+}
+.texto_float {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #333;
+	float: left;
+	height: 200px;
+	width: 200px;
+	visibility: visible;
+	z-index: 2;
+	position: relative;
+}
