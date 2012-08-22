@@ -1,0 +1,14 @@
+Instalación:
+
+NOTA IMPORTANTE
+
+1. Abra el archivo con el Bloc de notas -> C: \ WINDOWS \ System32 \ drivers \ etc \ hosts
+(Si utiliza Windows 7, abra el archivo como administrador)
+
+2. Abra el archivo de hosts y añadir al final del documento la siguiente línea: 127.0.0.1 activate.adobe.com
+
+3. Guarde el archivo editado y proceder con la instalación de la AcrobatPro_10_Web_WWSINLP programa que usa un código generado por el keygen.
+
+4. Una vez instalado el programa, cerrarlo y poner en marcha la actualización AcrobatUpd1010
+
+disfrutar
