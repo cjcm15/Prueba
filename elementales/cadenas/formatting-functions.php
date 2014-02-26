@@ -1,4 +1,5 @@
 <?php
+/*Estoy hacciendo un cambio en GitHub*/
 function texturize($text) {
 	$output = '';
 	// Capture tags and everything inside them
